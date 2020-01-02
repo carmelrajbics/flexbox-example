@@ -74,7 +74,7 @@ html, body {
     padding: 20px;
     box-sizing: border-box;
     margin-bottom: 20px;
-    flex-basis: 30%;
+    flex-basis: 40%;
   }
   
   @media (min-width: 900px) {
