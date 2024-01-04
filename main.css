@@ -111,6 +111,7 @@ html, body {
     font-weight: bold;
     font-size: 60px;
     margin-bottom: 20px;
+    flex-direction: column;
   }
   
   /* fifth example */
